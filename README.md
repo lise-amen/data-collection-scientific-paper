@@ -1,4 +1,4 @@
-# data_collection_scientific_paper
+# data-collection-scientific-paper
 
 Collecte d'informations sur des sites de recherche d'article scientifique (SciencesDirect et Springer) 
 
