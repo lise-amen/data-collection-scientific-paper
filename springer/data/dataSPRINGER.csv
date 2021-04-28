@@ -1,0 +1,41 @@
+,Title,Date,Author Keywords,Publication type
+0,A Preliminary Approach to the Multilabel Classification Problem of Portuguese Juridical Documents,2003/12/4,"Support Vector Machine , Information Retrieval System , Supreme Court , Preliminary Approach , Distinct Word ",Conference Paper (Or Conference Paper And Chapter)
+2,Statistical topic models for multi-label document classification,2011-12-29,"Topic models, LDA, Multi-label classification, Document modeling, Text classification, Graphical models, Probabilistic generative models, Dependency-LDA",OriginalPaper
+3,"CARS 2015—Computer Assisted Radiology and Surgery Proceedings of the 29th International Congress and Exhibition Barcelona, Spain, June 24–27, 2015",2015-05-19,,Events
+5,Learning Semantic Similarity for Multi-label Text Categorization,2014/6/9,"Semantic Similarity , Deep Learning , Evaluation Metrics , Cosine Similarity , Deep Learning Method ",Conference Paper (Or Conference Paper And Chapter)
+6,Combining instance-based learning and logistic regression for multilabel classification,2009-07-23,"Multilabel classification, Instance-based learning, Nearest neighbor classification, Logistic regression, Bayesian inference",OriginalPaper
+8,Text Representation in Multi-label Classification: Two New Input Representations,2011/4/14,"Multi-label text classification , text modelling , problem transformation ",Conference Paper (Or Conference Paper And Chapter)
+9,Analyzing the Temporal Sequences for Text Categorization,2004/9/20,"Test Document , Temporal Sequence , Text Categorization , Vector Space Model , Training Document ",Conference Paper (Or Conference Paper And Chapter)
+10,Unsupervised Aggregation of Categories for Document Labelling,2014/6/25,"Target Category , Target Label , Document Categorization , Standard Precision , Category Graph ",Conference Paper (Or Conference Paper And Chapter)
+11,Stochastic gradient-CAViaR-based deep belief network for text categorization,2020-07-12,"Text categorization, Deep belief network, Stochastic gradient descent, CAViaR, Vector space model",OriginalPaper
+12,Arabic Multi-label Text Classification of News Articles,2021/03/20,"Arabic text classification , Multilabel tagging , Natural Language Processing , Shallow Learning , Deep learning ",Conference Paper (Or Conference Paper And Chapter)
+13,"LSTM $$^{2}$$
+        
+         
+          
+           
+           2 : Multi-Label Ranking for Document Classification",2017-05-22,"LSTM
+                  
+                  
+                  
+                 (repLSTM, rankLSTM), Multi-label ranking, Document classification, Deep learning, Semantic indexing",OriginalPaper
+14,E-mail classification with machine learning and word embeddings for improved customer support,2020-06-19,"E-mail classification, Machine learning, Long short-term memory, Natural language processing",OriginalPaper
+16,Using semantic roles to improve text classification in the requirements domain,2017-11-11,"Text classification, Natural language processing, Knowledge representation, Semantic enrichment, Use case specification",OriginalPaper
+17,Attentional multilabel learning over graphs: a message passing approach,2019-03-08,"Multilabel learning, Graph classification, Graph neural networks, Message passing",OriginalPaper
+18,A New Supervised Term Ranking Method for Text Categorization,2010/12/7,"Average Method , Information Gain , Average Precision , Text Categorization , Maximum Method ",Conference Paper (Or Conference Paper And Chapter)
+19,Label prediction on issue tracking systems using text mining,2019-03-28,"Text classifier, Experimentation in software engineering, Issue tracker system, Text mining, Label prediction",OriginalPaper
+20,Unsupervised Multi-label Text Classification Using a World Knowledge Ontology,2012/5/29,"Semantic Relation , World Knowledge , Topic Coverage , Knowledge Generalisation , Text Classification Method ",Conference Paper (Or Conference Paper And Chapter)
+21,Labelset topic model for multi-label document classification,2014-12-20,"Multi-label classification, Topic model, Labelset, Label dependency",OriginalPaper
+22,Predicting Unseen Labels Using Label Hierarchies in Large-Scale Multi-label Learning,2015/9/7,"Neural Information Processing System , Label Pattern , Machine Learn Research , Binary Relevance , Label Space ",Conference Paper (Or Conference Paper And Chapter)
+24,Systematic reviews in sentiment analysis: a tertiary study,2021-03-03,"Sentiment analysis, Tertiary study, Systematic literature review, Sentiment classification",OriginalPaper
+26,Analysing Part-of-Speech for Portuguese Text Classification,2006/2/19,"Support Vector Machine , Natural Language Processing , Term Weighting , Linguistic Information , Linguistic Knowledge ",Conference Paper (Or Conference Paper And Chapter)
+27,Semi-Supervised Learning Based Tag Recommendation for Docker Repositories,2019-09-06,"tag recommendation, Docker repository, Dockerfile, semi-supervised learning",OriginalPaper
+29,DeepPatent: patent classification with convolutional neural networks and word embedding,2018-09-06,"Patent classification, Text classification, Convolutional neural network, Machine learning, Word embedding, 94-02, Y",OriginalPaper
+30,Aggregating Independent and Dependent Models to Learn Multi-label Classifiers,2011/9/4,"Dependent Model , Jaccard Index , Binary Relevance , Binary Output , Relevant Label ",Conference Paper (Or Conference Paper And Chapter)
+33,Bridging logic and kernel machines,2011-05-10,"Kernel machines, First-order logic, Learning from constraints, Learning with prior knowledge, Multi-task learning, Semantic-based regularization",OriginalPaper
+34,"Human activity recognition with deep learning: overview, challenges and possibilities",2021-04-09,"Learning (artificial intelligence), Neural networks, Activity recognition, Multimodal sensors",OriginalPaper
+35,ImageNet Large Scale Visual Recognition Challenge,2015-04-11,"Dataset, Large-scale, Benchmark, Object recognition, Object detection",OriginalPaper
+36,A survey on ensemble learning,2019-08-30,"ensemble learning, supervised ensemble classification, semi-supervised ensemble classification, clustering ensemble, semi-supervised clustering ensemble",ReviewPaper
+37,Decision trees for hierarchical multi-label classification,2008-08-01,"Hierarchical classification, Multi-label classification, Decision trees, Functional genomics, Precision-recall analysis",OriginalPaper
+38,Reader Emotion Prediction Using Concept and Concept Sequence Features in News Headlines,2014/4/6,"Emotion Prediction , Concept Feature , Concept Sequence Feature , HowNet ",Conference Paper (Or Conference Paper And Chapter)
+39,Improving Multi-label Classification Using Semi-supervised Learning and Dimensionality Reduction,2012/9/3,"multi-label classification , Singular Value Decomposition , SVD , dimensionality reduction , semi-supervised learning , co-training ",Conference Paper (Or Conference Paper And Chapter)
